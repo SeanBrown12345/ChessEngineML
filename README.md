@@ -8,4 +8,3 @@ Training R²: 0.7285
 
 Testing R²: 0.3526
 
-While imperfect, these results show that move patterns—especially in the opening—contain meaningful information about player skill.
